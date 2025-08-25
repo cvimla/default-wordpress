@@ -54,7 +54,7 @@
 
     <!-- Load the Google Maps JavaScript API -->
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnEAYKsou4b8VUtQSSz3GfMIeqYrVQSuk&callback=initMap">
+    src="">
     </script>
     
 
