@@ -1,0 +1,25 @@
+0000.023 () Opened log file at time: Mon, 28 Jul 2025 15:55:44 +0000 on https://solarex.mu
+0000.023 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 7.4.33 (fpm-fcgi, Linux srv1425 6.1.0-37-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.140-1 (2025-05-22) x86_64) MySQL: 8.0.42 (max packet size=67108864) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.1M | 8M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.023 () Free space on disk containing Updraft's temporary directory: 256976.8 MB
+0000.054 () Restore setup, now closing connection and starting restore over AJAX.
+0000.007 () Opened log file at time: Mon, 28 Jul 2025 15:55:45 +0000 on https://solarex.mu
+0000.008 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 7.4.33 (fpm-fcgi, Linux srv1425 6.1.0-37-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.140-1 (2025-05-22) x86_64) MySQL: 8.0.42 (max packet size=67108864) WPLANG: en_GB Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 22.6M | 6M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.008 () Free space on disk containing Updraft's temporary directory: 256976.8 MB
+0000.019 () Ensuring WP_Filesystem is setup for a restore
+0000.020 () WP_Filesystem is setup and ready for a restore
+0000.027 () Restore job started. Entities to restore: themes. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.028 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.036 () Entity: themes
+0000.036 () restore_backup(backup_file=backup_2025-07-28-1551_solarex_7123f97eb3d8-themes.zip, type=themes, info=a:3:{s:4:"path";s:53:"/var/www/vhosts/solarex.mu/httpdocs/wp-content/themes";s:11:"description";s:6:"Themes";s:20:"singular_description";s:5:"Theme";}, last_one=1)
+0000.036 () Unpacking backup... (backup_2025-07-28-1551_solarex_7123f97eb3d8-themes.zip, 5.1 MB)
+0000.037 () Unzipping backup_2025-07-28-1551_solarex_7123f97eb3d8-themes.zip to /var/www/vhosts/solarex.mu/httpdocs/wp-content/upgrade/8f311fd3/ using UpdraftPlus_ZipArchive, starting index 0
+0000.115 () Unzip progress: 363 out of 363 files (7.2 MB, themes/Solarex/woocommerce/single-product.php)
+0000.116 () Moving old data: filesystem method / updraft_dir is potentially possible
+0000.116 () Moving old data: can potentially use wp_filesystem method / -old
+0000.116 () Moving old data out of the way...
+0000.198 () Top-level entities being moved: index.php, Solarex
+0000.198 () Moving unpacked backup into place...
+0000.302 () Top-level entities being moved: index.php, Solarex
+0000.302 () Cleaning up rubbish...
+0000.331 () Restore successful!
+0000.331 () Restore successful

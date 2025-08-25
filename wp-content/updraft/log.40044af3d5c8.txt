@@ -1,0 +1,19 @@
+0000.013 () Opened log file at time: Mon, 28 Jul 2025 16:51:41 +0000 on https://solarex.mu
+0000.013 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 7.4.33 (fpm-fcgi, Linux srv1425 6.1.0-37-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.140-1 (2025-05-22) x86_64) MySQL: 8.0.42 (max packet size=67108864) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 18.5M | 4M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.013 () Free space on disk containing Updraft's temporary directory: 257002.8 MB
+0000.033 () Restore setup, now closing connection and starting restore over AJAX.
+0000.008 () Opened log file at time: Mon, 28 Jul 2025 16:51:42 +0000 on https://solarex.mu
+0000.008 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 7.4.33 (fpm-fcgi, Linux srv1425 6.1.0-37-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.140-1 (2025-05-22) x86_64) MySQL: 8.0.42 (max packet size=67108864) WPLANG: en_GB Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 19.4M | 8M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.008 () Free space on disk containing Updraft's temporary directory: 257002.8 MB
+0000.017 () Ensuring WP_Filesystem is setup for a restore
+0000.018 () WP_Filesystem is setup and ready for a restore
+0000.027 () Restore job started. Entities to restore: others. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.037 () Entity: others
+0000.037 () restore_backup(backup_file=backup_2025-07-28-1551_solarex_7123f97eb3d8-others.zip, type=others, info=a:2:{s:4:"path";s:46:"/var/www/vhosts/solarex.mu/httpdocs/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0000.037 () Unpacking backup... (backup_2025-07-28-1551_solarex_7123f97eb3d8-others.zip, 4.5 MB)
+0000.039 () Unzipping backup_2025-07-28-1551_solarex_7123f97eb3d8-others.zip to /var/www/vhosts/solarex.mu/httpdocs/wp-content/upgrade/ae4ad7ed/ using UpdraftPlus_ZipArchive, starting index 0
+0000.218 () Unzip progress: 761 out of 761 files (16.9 MB, logs/newsletter/upgrade-2025-07-004607a3.txt)
+0000.222 () Cleaning up rubbish...
+0000.222 () Error: Failed to delete working directory after restoring. (/var/www/vhosts/solarex.mu/httpdocs/wp-content/upgrade/ae4ad7ed)
+0000.255 () Restore successful!
+0000.255 () Restore successful

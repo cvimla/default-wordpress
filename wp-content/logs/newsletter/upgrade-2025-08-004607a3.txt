@@ -1,0 +1,38 @@
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 12.7 MB/256 MB - [cron] > Start upgrade from 8.9.2
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.0 MB/256 MB - [cron] > Backing up options of 8.9.2
+19-08-2025 20:01:49 - INFO  - 8.9.3 - 13.2 MB/256 MB - [cron] > End

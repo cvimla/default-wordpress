@@ -1,0 +1,7 @@
+0000.000 (1) Opened log file at time: Mon, 28 Jul 2025 15:59:21 +0000 on https://solarex.mu
+0000.007 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 7.4.33 (fpm-fcgi, Linux srv1425 6.1.0-37-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.140-1 (2025-05-22) x86_64) MySQL: 8.0.42 (max packet size=67108864) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.4M | 2M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.013 (1) Free space on disk containing Updraft's temporary directory: 256972.6 MB
+0000.021 (1) Requesting backup semaphore lock (7123f97eb3d8)
+0000.034 (1) [Debug] Lock option (updraft_lock_7123f97eb3d8, wp_options) was created in the database
+0000.039 (1) [Info] Lock (updraft_lock_7123f97eb3d8, wp_options) acquired after initialising the database
+0000.046 (1) This backup task (7123f97eb3d8) is either complete or began over 2 days ago: ending (1753718361.169, ) (existing jobdata keys: )
